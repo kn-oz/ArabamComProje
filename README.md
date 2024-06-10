@@ -1,4 +1,4 @@
-# ArabamComProje
+# ArabamCom Mobil app Proje
 
 Bu projede, Appium, Android Studio ve App Inspector'ı kullanarak Arabam.com mobil uygulamasında örnek otomasyon testleri kurup çalıştırdım. TestNG kullanarak yazdığım bu projede iki ana test senaryosu bulunmaktadır:
 
